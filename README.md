@@ -1,8 +1,8 @@
 # 🏦 Bank Management System 
 
 ## 📌 Project Overview
-**Bank Management System** એ Java console-based application છે, જે basic banking operations simulate કરે છે.  
-આ project Object-Oriented Programming (OOP) concepts પર આધારિત છે.
+**Bank Management System** is a Java console-based application that simulates basic banking operations.
+This project is based on Object-Oriented Programming (OOP) concepts.
 
 ---
 
